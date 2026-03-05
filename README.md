@@ -66,7 +66,7 @@
 
 ## 🌐 Find Me
 
-[![TryHackMe](https://tryhackme.com/p/obscurityerror404)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ObscurityError404-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ObscurityError404)
 
 ---
 
